@@ -1,0 +1,838 @@
+{
+  "components": {
+    "FET1": {
+      "footprint": "TO92-FET-ammo", 
+      "layer": "top", 
+      "location": [
+        -19.470833, 
+        -8.65
+      ], 
+      "rotate": 45, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "FET2": {
+      "footprint": "TO92-FET-ammo", 
+      "layer": "top", 
+      "location": [
+        19.470833, 
+        -8.65
+      ], 
+      "rotate": -45, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "FET3": {
+      "footprint": "TO92-FET-ammo", 
+      "layer": "top", 
+      "location": [
+        19.470833, 
+        8.65
+      ], 
+      "rotate": -135, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "FET4": {
+      "footprint": "TO92-FET-ammo", 
+      "layer": "top", 
+      "location": [
+        -19.470833, 
+        8.65
+      ], 
+      "rotate": 135, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "J1": {
+      "footprint": "header", 
+      "layer": "top", 
+      "location": [
+        0, 
+        13.182744
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        20.25, 
+        13.182744
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        20.25, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R11": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -20.25, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R12": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -24.438281, 
+        0.002803
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R13": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        24.437215, 
+        -5.786642
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R14": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -24.438281, 
+        -5.786642
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R15": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        24.437215, 
+        -11.576087
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R16": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -24.438281, 
+        -11.576087
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R17": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -20.25, 
+        -13.175023
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R18": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -14.464286, 
+        -13.201064
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R19": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        20.25, 
+        -13.218589
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -20.25, 
+        13.182085
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R20": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -8.678571, 
+        -13.253148
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R21": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        14.464282, 
+        -13.269839
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R22": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        8.67857, 
+        -13.26984
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R23": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        2.892856, 
+        -13.305232
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R24": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -2.892858, 
+        -13.331273
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        24.437215, 
+        11.581694
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -24.438281, 
+        11.581694
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        24.437215, 
+        5.792248
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -24.438281, 
+        5.792248
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        24.437215, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        -6.75, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "stitch", 
+      "layer": "top", 
+      "location": [
+        6.75, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "SG1": {
+      "footprint": "seven-segment", 
+      "layer": "top", 
+      "location": [
+        -13.5, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "SG2": {
+      "footprint": "seven-segment", 
+      "layer": "top", 
+      "location": [
+        13.5, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "SG3": {
+      "footprint": "seven-segment", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "three-sevens", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.26, 
+      "outline": 0.26, 
+      "pad": 0.26, 
+      "route": 0.26
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        -16.058339, 
+        -15.355386
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Three seven-segment digits\nRevision: A\nDescription: \nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        -13.794783, 
+        -28.470198
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top (white), bottom (white)\nSoldermask: top (green), bottom (green)\nSurface finish: RoHS lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        -17.604774, 
+        -39.595203
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      47.956539, 
+      7.5783127
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "three-sevens.json", 
+    "routing-svg": "three-sevens.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font-family": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "height": 32, 
+      "radii": {
+        "bl": 1, 
+        "br": 1, 
+        "tl": 1, 
+        "tr": 1
+      }, 
+      "type": "rect", 
+      "value": "m -4.0848141,-24.205414 c 2.3350913,-0.797371 5.8345367,-0.797371 8.169628,0 2.3350913,0.797371 3.4139713,2.824254 5.2494447,4.058299 3.3159274,2.229399 8.1920044,1.158578 10.3684454,6.015456 2.176441,4.8568786 -1.796084,13.1000319 -1.506778,19.6693116 0.192719,4.3760787 1.552752,8.5137904 2.151663,12.9636104 0.598911,4.44982 -1.210329,6.055012 -4.691663,6.055012 l -31.311852,0 c -3.284759,0 -5.124007,-1.627086 -4.691662,-6.055012 0.432345,-4.427926 1.958943,-8.5875317 2.151662,-12.9636104 0.289305,-6.5692797 -3.683219,-14.812433 -1.506778,-19.6693116 2.176441,-4.856878 7.052518,-3.786057 10.3684455,-6.015456 1.835473,-1.234045 2.914353,-3.260928 5.2494444,-4.058299 z", 
+      "width": 54
+    }
+  }, 
+  "shapes": {
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "bottom", 
+      "location": [
+        -6.891921, 
+        -9.435824
+      ], 
+      "rotate": 0, 
+      "scale": 0.5, 
+      "show": true
+    }, 
+    "BPC-LOGO": {
+      "footprint": "boldport-club-logo-bc", 
+      "layer": "bottom", 
+      "location": [
+        7.082031, 
+        -9.435824
+      ], 
+      "rotate": 0, 
+      "scale": 0.5, 
+      "show": true
+    }, 
+    "LEGEND": {
+      "footprint": "legend-top", 
+      "layer": "top", 
+      "location": [
+        -0.2, 
+        -0.07
+      ], 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": true
+    }, 
+    "PR": {
+      "footprint": "pours", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "show": true
+    }, 
+    "SS": {
+      "footprint": "silkscreen", 
+      "layer": "top", 
+      "location": [
+        -79.844473, 
+        27.409281
+      ], 
+      "show": false
+    }, 
+    "URL": {
+      "footprint": "url", 
+      "layer": "bottom", 
+      "location": [
+        -98.761258, 
+        -18.863655
+      ], 
+      "rotate": 0, 
+      "scale": 1, 
+      "show": false
+    }
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05, 
+    "scale": 1.1
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1, 
+    "scale": 0.9
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}
