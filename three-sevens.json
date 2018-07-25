@@ -4,10 +4,10 @@
       "footprint": "TO92-FET-ammo", 
       "layer": "top", 
       "location": [
-        -19.470833, 
-        -8.65
+        -19.4599, 
+        25.724589
       ], 
-      "rotate": 45, 
+      "rotate": 135, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -22,10 +22,10 @@
       "footprint": "TO92-FET-ammo", 
       "layer": "top", 
       "location": [
-        19.470833, 
-        -8.65
+        19.481766, 
+        25.724589
       ], 
-      "rotate": -45, 
+      "rotate": -135, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -40,10 +40,10 @@
       "footprint": "TO92-FET-ammo", 
       "layer": "top", 
       "location": [
-        19.470833, 
-        8.65
+        19.481766, 
+        8.424589
       ], 
-      "rotate": -135, 
+      "rotate": -45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -58,10 +58,10 @@
       "footprint": "TO92-FET-ammo", 
       "layer": "top", 
       "location": [
-        -19.470833, 
-        8.65
+        -19.4599, 
+        8.424589
       ], 
-      "rotate": 135, 
+      "rotate": 45, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -77,7 +77,7 @@
       "layer": "top", 
       "location": [
         0, 
-        13.182744
+        30.23
       ], 
       "rotate": 0, 
       "show": true, 
@@ -94,8 +94,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        20.25, 
-        13.182744
+        20.3, 
+        30.23
       ], 
       "rotate": 0, 
       "show": true, 
@@ -112,10 +112,10 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        20.25, 
-        0
+        24.43, 
+        17
       ], 
-      "rotate": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -130,8 +130,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -20.25, 
-        0
+        -6.75, 
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -148,10 +148,10 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -24.438281, 
-        0.002803
+        6.75, 
+        17
       ], 
-      "rotate": 90, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -166,8 +166,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        24.437215, 
-        -5.786642
+        -24.43, 
+        11.2
       ], 
       "rotate": 90, 
       "show": true, 
@@ -184,8 +184,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -24.438281, 
-        -5.786642
+        24.43, 
+        11.2
       ], 
       "rotate": 90, 
       "show": true, 
@@ -202,8 +202,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        24.437215, 
-        -11.576087
+        -24.43, 
+        5.4
       ], 
       "rotate": 90, 
       "show": true, 
@@ -220,8 +220,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -24.438281, 
-        -11.576087
+        24.43, 
+        5.4
       ], 
       "rotate": 90, 
       "show": true, 
@@ -238,8 +238,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -20.25, 
-        -13.175023
+        -20.3, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -256,10 +256,10 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -14.464286, 
-        -13.201064
+        -14.5, 
+        3.77
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -274,8 +274,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        20.25, 
-        -13.218589
+        20.3, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -292,8 +292,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -20.25, 
-        13.182085
+        -20.3, 
+        30.23
       ], 
       "rotate": 0, 
       "show": true, 
@@ -310,8 +310,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -8.678571, 
-        -13.253148
+        -8.7, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -328,8 +328,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        14.464282, 
-        -13.269839
+        14.5, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -346,8 +346,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        8.67857, 
-        -13.26984
+        8.7, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -364,8 +364,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        2.892856, 
-        -13.305232
+        2.9, 
+        3.77
       ], 
       "rotate": 0, 
       "show": true, 
@@ -382,10 +382,10 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -2.892858, 
-        -13.331273
+        -2.9, 
+        3.77
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -400,8 +400,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        24.437215, 
-        11.581694
+        -24.43, 
+        28.6
       ], 
       "rotate": 90, 
       "show": true, 
@@ -418,8 +418,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -24.438281, 
-        11.581694
+        24.43, 
+        28.6
       ], 
       "rotate": 90, 
       "show": true, 
@@ -436,8 +436,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        24.437215, 
-        5.792248
+        24.43, 
+        22.8
       ], 
       "rotate": 90, 
       "show": true, 
@@ -454,8 +454,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -24.438281, 
-        5.792248
+        -24.43, 
+        22.8
       ], 
       "rotate": 90, 
       "show": true, 
@@ -472,8 +472,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        24.437215, 
-        0
+        -24.43, 
+        17
       ], 
       "rotate": 90, 
       "show": true, 
@@ -490,8 +490,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        -6.75, 
-        0
+        20.25, 
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -508,8 +508,8 @@
       "footprint": "stitch", 
       "layer": "top", 
       "location": [
-        6.75, 
-        0
+        -20.25, 
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -527,7 +527,7 @@
       "layer": "top", 
       "location": [
         -13.5, 
-        0
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -544,8 +544,8 @@
       "footprint": "seven-segment", 
       "layer": "top", 
       "location": [
-        13.5, 
-        0
+        0, 
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -562,8 +562,8 @@
       "footprint": "seven-segment", 
       "layer": "top", 
       "location": [
-        0, 
-        0
+        13.5, 
+        17
       ], 
       "rotate": 0, 
       "show": true, 
@@ -751,8 +751,8 @@
         "tl": 1, 
         "tr": 1
       }, 
-      "type": "rect", 
-      "value": "m -4.0848141,-24.205414 c 2.3350913,-0.797371 5.8345367,-0.797371 8.169628,0 2.3350913,0.797371 3.4139713,2.824254 5.2494447,4.058299 3.3159274,2.229399 8.1920044,1.158578 10.3684454,6.015456 2.176441,4.8568786 -1.796084,13.1000319 -1.506778,19.6693116 0.192719,4.3760787 1.552752,8.5137904 2.151663,12.9636104 0.598911,4.44982 -1.210329,6.055012 -4.691663,6.055012 l -31.311852,0 c -3.284759,0 -5.124007,-1.627086 -4.691662,-6.055012 0.432345,-4.427926 1.958943,-8.5875317 2.151662,-12.9636104 0.289305,-6.5692797 -3.683219,-14.812433 -1.506778,-19.6693116 2.176441,-4.856878 7.052518,-3.786057 10.3684455,-6.015456 1.835473,-1.234045 2.914353,-3.260928 5.2494444,-4.058299 z", 
+      "type": "path", 
+      "value": "m -27,19 c 0,-0.552285 0.447715,-1 1,-1 17.3333333,0 34.6666667,0 52,0 0.552285,0 1,0.447715 1,1 0,10 0,20 0,30 0,0.552285 -0.447715,1 -1,1 -17.3333333,0 -34.6666667,0 -52,0 -0.552285,0 -1,-0.447715 -1,-1 0,-10 0,-20 0,-30 z m 0,-34 c 0,-0.552285 0.447715,-1 1,-1 17.3333333,0 34.6666667,0 52,0 0.552285,0 1,0.447715 1,1 0,10 0,20 0,30 0,0.552285 -0.447715,1 -1,1 -17.3333333,0 -34.6666667,0 -52,0 -0.552285,0 -1,-0.447715 -1,-1 0,-10 0,-20 0,-30 z", 
       "width": 54
     }
   }, 
@@ -761,8 +761,8 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        -6.891921, 
-        -9.435824
+        -7, 
+        7.551274
       ], 
       "rotate": 0, 
       "scale": 0.5, 
@@ -772,8 +772,8 @@
       "footprint": "boldport-club-logo-bc", 
       "layer": "bottom", 
       "location": [
-        7.082031, 
-        -9.435824
+        7, 
+        7.551274
       ], 
       "rotate": 0, 
       "scale": 0.5, 
@@ -783,8 +783,8 @@
       "footprint": "legend-top", 
       "layer": "top", 
       "location": [
-        -0.2, 
-        -0.07
+        -0.189067, 
+        17
       ], 
       "rotate": 0, 
       "scale": 1, 
@@ -804,7 +804,7 @@
       "layer": "top", 
       "location": [
         -79.844473, 
-        27.409281
+        27.4092813
       ], 
       "show": false
     }, 
