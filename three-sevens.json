@@ -1117,9 +1117,9 @@
       "route": 0.26
     }, 
     "soldermask": {
-      "circle-buffer": 0.05, 
-      "path-scale": 1.05, 
-      "rect-buffer": 0.05
+      "circle-buffer": 0.21, 
+      "path-scale": 1.2, 
+      "rect-buffer": 0.21
     }, 
     "solderpaste": {
       "circle-buffer": -0.1, 
@@ -1364,10 +1364,10 @@
     }
   }, 
   "soldermask": {
-    "circle-buffer": 0.05, 
-    "path-scale": 1.05, 
-    "rect-buffer": 0.05, 
-    "scale": 1.1
+    "circle-buffer": 0.5, 
+    "path-scale": 1.5, 
+    "rect-buffer": 0.5, 
+    "scale": 1.5
   }, 
   "solderpaste": {
     "circle-buffer": -0.1, 
