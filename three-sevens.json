@@ -1279,6 +1279,15 @@
     }
   }, 
   "shapes": {
+    "3X7": {
+      "footprint": "3X7", 
+      "layer": "top", 
+      "location": [
+        13.555747, 
+        20.855546
+      ], 
+      "show": true
+    }, 
     "ART": {
       "footprint": "art-bot", 
       "layer": "bottom", 
