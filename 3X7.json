@@ -1134,8 +1134,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -16.058339, 
-        -15.355386
+        47.575912, 
+        5.6555729
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -1148,8 +1148,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -13.794783, 
-        -28.470198
+        44.33128, 
+        -7.904177
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -1162,8 +1162,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.2mm", 
       "location": [
-        -17.604774, 
-        -39.595203
+        40.521289, 
+        -18.238181
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -1173,8 +1173,8 @@
   }, 
   "drill-index": {
     "location": [
-      47.956539, 
-      7.5783127
+      28.350344, 
+      15.784946
     ]
   }, 
   "drills": {}, 
